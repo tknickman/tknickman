@@ -6,7 +6,7 @@
 </a>
 <br />
 <br />
-<p style="text-align: center;">
+<p align="center">
   <a href="https://www.linkedin.com/in/tknickman/">
     <img
       alt="@tknickman - linkedin"
