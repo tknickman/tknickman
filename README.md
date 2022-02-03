@@ -1,4 +1,4 @@
-<a href="https://tomk.info">
+<a href="https://tomk.info?ref=github_banner">
   <img
     alt="Thomas Knickman Header"
     src="./assets/banner.png"
